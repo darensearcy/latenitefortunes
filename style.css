@@ -1,0 +1,15 @@
+body{
+    background-color: #000 !important;
+}
+
+h1, h2 {
+    font-family: 'Lexend Mega', sans-serif !important;
+    color: #FFF !important;
+    text-transform: uppercase;
+}
+
+.intro {
+    font-family: 'Lexend Mega', sans-serif;
+    color: #ff2e51;
+    text-transform: uppercase;
+}
