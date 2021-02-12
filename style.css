@@ -6,14 +6,14 @@ h1, h2 {
     font-family: 'Lexend Mega', sans-serif !important;
     color: #FFF !important;
     text-transform: uppercase;
-    overflow: hidden !important;
+    overflow: auto !important;
 }
 
 .intro {
     font-family: 'Lexend Mega', sans-serif;
     color: #ff2e51;
     text-transform: uppercase;
-    overflow: auto;
+    overflow:auto;
 }
 
 
