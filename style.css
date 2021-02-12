@@ -6,10 +6,32 @@ h1, h2 {
     font-family: 'Lexend Mega', sans-serif !important;
     color: #FFF !important;
     text-transform: uppercase;
+    overflow: hidden !important;
 }
 
 .intro {
     font-family: 'Lexend Mega', sans-serif;
     color: #ff2e51;
     text-transform: uppercase;
+    overflow: auto;
+}
+
+
+.mainnav{
+    font-family: 'Lexend Mega', sans-serif !important;
+    display: inline-block;
+    font-size: 18px;
+    padding-top: 30px;
+    
+}
+
+
+.mainnav a {
+     color:  #ff2e51;
+     padding: 10px;
+}
+
+.mainnav a:hover {
+    color: #FFF;
+    
 }
