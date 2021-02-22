@@ -23,6 +23,11 @@ h1, h2, p {
     font:14px Helvetica,Arial,sans-serif;
     width:100%;}
 
+div.mc-field-group label {
+    color: #FFF;
+}
+
+
 .mainnav{
     font-family: 'Lexend Mega', sans-serif !important;
     display: inline-block;
