@@ -2,6 +2,10 @@ body{
     background-color: #000 !important;
 }
 
+.row {
+    display:flex; flex-direction:row;
+}
+
 h1, h2 {
     font-family: 'Lexend Mega', sans-serif !important;
     color: #FFF !important;
