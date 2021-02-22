@@ -19,6 +19,7 @@ h1, h2 {
 #logo {
 
     padding-top: 80px;
+    visibility:hidden;
 
 }
 
