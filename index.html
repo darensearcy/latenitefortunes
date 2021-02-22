@@ -42,7 +42,7 @@
       if (document.getElementById) {
         var ele = document.getElementById(imgId);
         if (ele && ele.style) {
-          setTimeout('blinkImg()', imgOffTime);
+          setTimeout('blinkImg()', Math.randon * imgOffTime);
         }
       }
     }
