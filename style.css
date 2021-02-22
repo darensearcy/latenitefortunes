@@ -19,10 +19,14 @@ h1, h2 {
 #logo {
 
     padding-top: 80px;
-    visibility:hidden;
 
 }
 
+#mc_embed_signup{
+    background:rgba(255, 255, 255, 0);
+    clear:left;
+    font:14px Helvetica,Arial,sans-serif;
+    width:100%;}
 
 .mainnav{
     font-family: 'Lexend Mega', sans-serif !important;
